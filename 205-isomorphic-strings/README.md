@@ -15,25 +15,26 @@ No two characters may map to the same character, but a character may map to itse
 
 ---
 
-Example 1:
+### Example 1
 
-````
+```javascript
 Input: s = "egg", t = "add"
 Output: true
-```Example 2:
-````
-
-Input: s = "foo", t = "bar"
-Output: false
-
-```Example 3:
-
 ```
 
+## Example 2:
+
+```javascript
+Input: s = "foo", t = "bar"
+Output: false
+```
+
+## Example 3:
+
+```javascript
 Input: s = "paper", t = "title"
 Output: true
-
-````
+```
  
 **Constraints:**
 
