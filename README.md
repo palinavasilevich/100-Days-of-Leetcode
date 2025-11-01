@@ -8,9 +8,10 @@ Each folder contains a separate problem with its own `README.md` and solution fi
 
 ## 🗂️ Problem List
 
-| #   | Problem                                                                 | Difficulty | Solution                                |
-| --- | ----------------------------------------------------------------------- | ---------- | --------------------------------------- |
-| 205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | 🟢 Easy    | [View Folder](./205-isomorphic-strings) |
+| #   | Problem                                                                               | Difficulty | Solution                                      |
+| --- | ------------------------------------------------------------------------------------- | ---------- | --------------------------------------------- |
+| 205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)               | 🟢 Easy    | [View Folder](./205-isomorphic-strings)       |
+| Q2  | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) | 🟢 Easy    | [View Folder](./Q2-merge-strings-alternately) |
 
 ---
 
