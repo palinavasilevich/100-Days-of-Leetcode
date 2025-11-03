@@ -28,7 +28,7 @@ fs.mkdirSync(folderPath);
 // README.md
 fs.writeFileSync(
   path.join(folderPath, "README.md"),
-  `# 🧩 Q${number}. ${title}
+  `# 🧩 ${number}. ${title}
 
 **Difficulty:** Easy  
 **LeetCode Link:** [${title}](https://leetcode.com/problems/${slug}/)
@@ -67,14 +67,14 @@ export const ${camelName} = () => {
 
 **🧮 Complexity**
 
-- Time complexity : O(n).
-- Space complexity : O(n).
+- Time Complexity : O(n).
+- Space Complexity : O(n).
 `
 );
 
 // JS file
 fs.writeFileSync(
-  path.join(folderPath, `${camelName}.js`),
+  path.join(folderPath, `solution.js`),
   `/**
  * @param {}
  * @return {}
